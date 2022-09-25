@@ -33,7 +33,7 @@
 
 For example: 
 
-|Title(Essential/Desirable/Optional)<br> |View project details (Essential)|
+|Title(Essential/Desirable/Optional)<br> |View project details (Essential)<br>|
 |---|---|
 |Description|As a user, I want to view the details of a project so that I can have a better idea about that project.  |
 |Mockups|You can put one or more mockups here. |
